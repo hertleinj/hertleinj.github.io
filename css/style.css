@@ -325,9 +325,6 @@ a.article-title:hover,
   margin-left: -15px;
   font-family: FontAwesome;
 }
-#main-nav-toggle:before {
-  content: "\f0c9";
-}
 @media screen and (max-width: 839px) {
   #main-nav-toggle {
     display: block;

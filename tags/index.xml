@@ -6,9 +6,28 @@
     <description>Recent content in Tags on The photographing Coder - Jan Hertlein</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
+    <lastBuildDate>Thu, 31 May 2018 18:08:02 +0200</lastBuildDate>
     
 	<atom:link href="http://hertleinj.site/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Coding</title>
+      <link>http://hertleinj.site/tags/coding/</link>
+      <pubDate>Thu, 31 May 2018 18:08:02 +0200</pubDate>
+      
+      <guid>http://hertleinj.site/tags/coding/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Photografie</title>
+      <link>http://hertleinj.site/tags/photografie/</link>
+      <pubDate>Sat, 26 May 2018 11:13:36 +0200</pubDate>
+      
+      <guid>http://hertleinj.site/tags/photografie/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
